@@ -7,7 +7,7 @@
 
 💼 Working at New Way
 
-👨‍🎓 My learning focus has been Javascript and Flutter 
+👨🏻‍💻 My learning focus has been Javascript and Flutter 
 
 <hr>
   
