@@ -1,13 +1,13 @@
-# Júlio Longo 👋
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Júlio Longo</h1>
 
 <p>
 <a href="https://www.linkedin.com/in/julio-longo/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:juliolongocontato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" height=25></a>
 </p>
 
-💼 Working at New Way
+- 💼 Working at New Way
 
-👨🏻‍💻 My learning focus has been Flutter and Javascript
+- 👨🏻‍💻 My learning focus has been Flutter and Javascript
 
 <hr>
   
